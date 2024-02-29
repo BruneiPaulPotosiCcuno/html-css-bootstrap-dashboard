@@ -28,7 +28,7 @@ header{
 
 
 main{
-  background-color: #1b72e8;
+  background-color: #f8f9fa;
   overflow-y: auto;
   flex-grow: 1;;
 }
@@ -85,6 +85,11 @@ main{
   min-width: 170px;
   max-width: 170px;
   height: 100%;
+ }
+
+ #side_nav_2{
+  background-color: #051e34;
+  background-image: url(img/sidebar-bg.png);
  }
  
  .sidebar li.active:hover{
